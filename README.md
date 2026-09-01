@@ -1,6 +1,10 @@
 # granite-finreason-lab
 
-**Research question:** How does Granite 4.2 3B accuracy change as the number of required reasoning operations increases — and does full-thinking mode move the failure boundary?
+How far can Granite 4.2 3B reliably reason? This repo will be gradually adding expriments to test model's boundaries.
+
+It will be about: the boundary between genuine multi-step reasoning and reasoning that becomes unreliable as complexity increases.
+
+Detailed question: how does Granite 4.2 3B accuracy change as the number of required reasoning operations increases?
 
 ---
 
