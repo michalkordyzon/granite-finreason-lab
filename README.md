@@ -149,3 +149,7 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+
+<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/9bf8bd56-b764-4ea0-8636-9f59f30fdb13" />
+
